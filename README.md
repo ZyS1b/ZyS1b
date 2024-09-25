@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 &nbsp;About Me
-- 👋 Hi there! I'm **Zybert Jio D. Sibolboro**, a college student who's passionate about software development and robotics.
+- 👋 Hi there! I'm **Zybert Jio D. Sibolboro**, a computer engineering student who's passionate about software development and robotics.
 - 🔭 I’m currently working on **my portfolio website**.
 - 🌱 I’m currently learning **MERN Stack + Tailwind**.
 - ⚡ I like playing **chess** and **tetris**.
