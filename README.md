@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 &nbsp;About Me
 - 👋 Hi there! I'm **Zybert Jio D. Sibolboro**, a computer engineering student who's passionate about software development and robotics.
-- 🔭 I’m currently working on **my portfolio website**.
+- 🔭 I’m currently finishing my course on **Full-Stack Software Developer by IBM**.
 - 🌱 I’m currently learning **MERN Stack + Tailwind**.
 - ⚡ I like playing **chess** and **tetris**.
 
