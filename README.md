@@ -28,7 +28,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThtaW84eHlyNXh2cjVrN2piaXczeGEzMWowOGI5NWNoc3ZsbmFkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qt1jk5Q49C3h5CrlBe/giphy.gif" width="300px">
       <img alt="Sleeping Programmer" src="https://media.giphy.com/media/3og0IIAyPXMg2LG12w/giphy.gif" width="300px"/>
     </picture>
-    <br>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python#gh-dark-mode-only">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-f3f3fa?style=for-the-badge&logo=python&logoColor=black#gh-light-mode-only">
