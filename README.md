@@ -13,6 +13,9 @@
 - 🔭 I’m currently finishing my course on **Full-Stack Software Developer by IBM**.
 - 🌱 I’m currently learning **MERN Stack + Tailwind**.
 - ⚡ I like playing **chess** and **tetris**.
+<br>
+
+> *💡 Fun Fact: My README profile changes color and images based on your GitHub theme!*
 
 ---
 
