@@ -33,6 +33,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-f3f3fa?style=for-the-badge&logo=python&logoColor=black#gh-light-mode-only">
       <img alt="Python" src="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python#gh-dark-mode-only" style="for-the-badge&logo=python">
     </picture>
+    <br>
     <!-- C++ Badge -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=blue#gh-dark-mode-only">
